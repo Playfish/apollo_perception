@@ -1,0 +1,3 @@
+modules_common_msgs/Header localization_header
+modules_common_msgs/Header canbus_header 
+modules_common_msgs/Header trajectory_header

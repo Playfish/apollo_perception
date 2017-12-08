@@ -1,0 +1,5 @@
+modules_canbus_msgs/VehicleParameter vehicle_parameter
+modules_canbus_msgs/CANCardParameter can_card_parameter
+bool enable_debug_mode
+bool enable_receiver_log
+bool enable_sender_log

@@ -1,0 +1,2 @@
+modules_drivers_gnss_msgs/NovatelConfig novatel_config
+modules_drivers_gnss_msgs/UbloxConfig ublox_config

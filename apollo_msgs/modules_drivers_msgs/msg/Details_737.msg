@@ -1,0 +1,8 @@
+float64 lane_curvature
+float64 lane_heading
+bool ca_construction_area
+bool right_ldw_availability
+bool left_ldw_availability
+bool reserved_1
+float64 yaw_angle
+float64 pitch_angle

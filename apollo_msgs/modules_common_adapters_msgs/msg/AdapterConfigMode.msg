@@ -1,0 +1,4 @@
+#Mode
+uint8 RECEIVE_ONLY = 0
+uint8 PUBLISH_ONLY = 1
+uint8 DUPLEX = 2

@@ -1,0 +1,15 @@
+
+#VehicleBrand
+modules_canbus_msgs/VehicleParameterVehicleBrand brand
+
+float64 max_steer_angle
+float64 max_steer_angle_spd
+float64 min_steer_angle_spd
+float64 max_acc
+float64 min_acc
+float64 max_brake_pressure
+float64 max_engine_pedal
+int32 max_enable_fail_attempt
+
+#DrivingMode
+modules_canbus_msgs/DrivingMode driving_mode

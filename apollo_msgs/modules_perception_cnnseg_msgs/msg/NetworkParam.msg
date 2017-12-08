@@ -1,0 +1,5 @@
+string instance_pt_blob   #[default = "instance_pt"]
+string category_pt_blob   #[default = "category_score"]
+string confidence_pt_blob   #[default = "confidence_score"]
+string height_pt_blob   #[default = "height_pt"]
+string feature_blob   #[default = "data"]

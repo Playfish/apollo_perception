@@ -1,0 +1,8 @@
+int32 lane_conf_left
+bool ldw_availability_left
+int32 lane_type_left
+float64 distance_to_lane_l
+int32 lane_conf_right
+bool ldw_availability_right
+int32 lane_type_right
+float64 distance_to_lane_r

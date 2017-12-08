@@ -1,0 +1,3 @@
+#Type
+uint8 QIRUI_EQ_15 = 0
+uint8 CHANGAN_RUICHENG = 1

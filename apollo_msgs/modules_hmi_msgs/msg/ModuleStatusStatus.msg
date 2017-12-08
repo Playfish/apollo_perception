@@ -1,0 +1,4 @@
+uint8 UNINITIALIZED = 0
+uint8 INITIALIZED = 1
+uint8 STARTED = 2
+uint8 STOPPED = 3

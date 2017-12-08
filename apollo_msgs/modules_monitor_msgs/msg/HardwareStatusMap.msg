@@ -1,0 +1,2 @@
+string name
+HardwareStatus hardware_status

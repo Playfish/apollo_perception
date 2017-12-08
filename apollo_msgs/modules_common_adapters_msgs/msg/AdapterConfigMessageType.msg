@@ -1,0 +1,29 @@
+# Message Type
+uint8 POINT_CLOUD = 1
+uint8 GPS = 2
+uint8 IMU = 3
+uint8 CHASSIS = 4
+uint8 LOCALIZATION = 5
+uint8 PLANNING_TRAJECTORY = 6
+uint8 MONITOR = 7
+uint8 PAD = 8
+uint8 CONTROL_COMMAND = 9
+uint8 PREDICTION = 10
+uint8 PERCEPTION_OBSTACLES = 11
+uint8 TRAFFIC_LIGHT_DETECTION = 12
+uint8 CHASSIS_DETAIL = 13
+uint8 DECISION = 14 #[deprecated = true]
+uint8 CANBUS = 15
+uint8 ROUTING_REQUEST = 16
+uint8 ROUTING_RESPONSE = 17
+uint8 RELATIVE_ODOMETRY = 18
+uint8 INS_STAT = 19
+
+# TODO(xiaoxq): Retire HMI_COMMAND after integration with dreamview.
+uint8 HMI_COMMAND = 20
+uint8 MOBILEYE = 21
+uint8 DELPHIESR = 22
+uint8 COMPRESSED_IMAGE = 23
+uint8 SYSTEM_STATUS = 24
+uint8 INS_STATUS = 25
+uint8 GNSS_STATUS = 26

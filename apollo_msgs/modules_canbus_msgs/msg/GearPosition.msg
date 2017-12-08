@@ -1,0 +1,8 @@
+#Gear Position
+uint8 GEAR_NEUTRAL = 0
+uint8 GEAR_DRIVE = 1
+uint8 GEAR_REVERSE = 2
+uint8 GEAR_PARKING = 3
+uint8 GEAR_LOW = 4
+uint8 GEAR_INVALID = 5
+uint8 GEAR_NONE = 6

@@ -1,0 +1,2 @@
+uint8 LAT_CONTROLLER = 0
+uint8 LON_CONTROLLER = 1

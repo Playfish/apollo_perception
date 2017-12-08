@@ -1,0 +1,11 @@
+int32 num_obstacles
+int32 timestamp
+int32 application_version
+int32 active_version_number_section
+bool left_close_rang_cut_in
+bool right_close_rang_cut_in
+int32 go
+int32 protocol_version
+bool close_car
+int32 failsafe
+int32 reserved_10

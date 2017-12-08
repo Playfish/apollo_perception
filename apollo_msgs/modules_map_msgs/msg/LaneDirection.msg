@@ -1,0 +1,3 @@
+uint8 FORWARD = 1
+uint8 BACKWARD = 2
+uint8 BIDIRECTION = 3

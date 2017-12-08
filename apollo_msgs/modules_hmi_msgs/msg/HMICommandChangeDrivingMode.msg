@@ -1,0 +1,2 @@
+modules_canbus_msgs/DrivingMode target_mode
+bool reset_first

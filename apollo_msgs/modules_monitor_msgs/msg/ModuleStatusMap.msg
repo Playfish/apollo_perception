@@ -1,0 +1,2 @@
+string name
+ModuleStatus module_status

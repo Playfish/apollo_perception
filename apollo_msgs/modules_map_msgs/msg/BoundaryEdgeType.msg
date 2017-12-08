@@ -1,0 +1,4 @@
+uint8 UNKNOWN = 0
+uint8 NORMAL = 1
+uint8 LEFT_BOUNDARY = 2
+uint8 RIGHT_BOUNDARY = 3

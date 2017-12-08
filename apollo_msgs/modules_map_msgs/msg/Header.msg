@@ -1,0 +1,12 @@
+string version
+string date
+Projection projection
+string district
+string generation
+string rev_major
+string rev_minor
+float64 left
+float64 top
+float64 right
+float64 bottom
+string vendor

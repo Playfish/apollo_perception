@@ -1,0 +1,10 @@
+uint8 UNKNOWN = 0
+uint8 NMEA = 1
+uint8 RTCM_V2 = 2
+uint8 RTCM_V3 = 3
+
+uint8 NOVATEL_TEXT = 10
+uint8 NOVATEL_BINARY = 11
+
+uint8 UBLOX_TEXT = 20
+uint8 UBLOX_BINARY = 21

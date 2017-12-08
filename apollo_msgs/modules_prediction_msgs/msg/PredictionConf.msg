@@ -1,0 +1,1 @@
+ObstacleConf[] obstacle_conf

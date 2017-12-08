@@ -1,0 +1,25 @@
+<package>
+  <name>minboxbuilder</name>
+  <version>1.5.0</version>
+  <description>
+    This package defines MinBoxBuilder library of perception with apollo
+  </description>
+  <maintainer email="wzhang@softrobtech.com">Carl</maintainer>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>modules_perception_cnnseg_msgs</build_depend>
+  <build_depend>modules_perception_msgs</build_depend>
+  <build_depend>pcl_conversions</build_depend>
+
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>modules_perception_cnnseg_msgs</run_depend>
+  <run_depend>modules_perception_msgs</run_depend>
+  <run_depend>pcl_conversions</run_depend>
+  <export>
+  </export>
+</package>

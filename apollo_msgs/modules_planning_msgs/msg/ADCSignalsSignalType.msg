@@ -1,0 +1,6 @@
+uint8 LEFT_TURN = 1
+uint8 RIGHT_TURN = 2
+uint8 LOW_BEAM_LIGHT = 3
+uint8 HIGH_BEAM_LIGHT = 4
+uint8 FOG_LIGHT = 5
+uint8 EMERGENCY_LIGHT = 6

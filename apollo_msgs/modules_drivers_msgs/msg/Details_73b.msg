@@ -1,0 +1,7 @@
+float64 obstacle_angle_rate
+float64 obstacle_scale_change
+float64 object_accel_x
+int32 reserved_8
+bool obstacle_replaced
+int32 reserved_9
+float64 obstacle_angle

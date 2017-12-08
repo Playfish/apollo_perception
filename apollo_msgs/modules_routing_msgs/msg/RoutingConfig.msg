@@ -1,0 +1,6 @@
+float64 base_speed            #  optional  base speed for node creator [m/s]
+float64 left_turn_penalty     #  optional  left turn penalty for node creater [m]
+float64 right_turn_penalty    #  optional  right turn penalty for node creater [m]
+float64 uturn_penalty         #  optional  left turn penalty for node creater [m]
+float64 change_penalty        #  optional  change penalty for edge creater [m]
+float64 base_changing_length  #  optional  base change length penalty for edge creater [m]

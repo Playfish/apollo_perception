@@ -1,0 +1,13 @@
+int32 obstacle_id
+float64 obstacle_pos_x
+int32 reseved_2
+float64 obstacle_pos_y
+int32 blinker_info
+int32 cut_in_and_out
+float64 obstacle_rel_vel_x
+int32 obstacle_type
+bool reserved_3
+int32 obstacle_status
+bool obstacle_brake_lights
+int32 reserved_4
+int32 obstacle_valid
